@@ -49,7 +49,7 @@ GOOS=linux GOARCH=arm64 go build -o server.so
 <uses-permission android:name="android.permission.INTERNET" />
 ```
 
-将编译好的 `server.so` 文件放置在 jniLibs 中，这里为 `app/src/main/jniLibs`，你也可以自行制定 jniLibs 位置。
+将编译好的 `server.so` 文件放置在 jniLibs 中，这里为 `app/src/main/jniLibs`，你也可以自行指定 jniLibs 位置。
 
 以下是运行 Go 程序的关键代码。
 
