@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidRunGo</string>
+    <string name="run_go">Run Go!</string>
+    <string name="visit_index">Visit index page!</string>
+    <string name="visit_hello">Visit hello page!</string>
+</resources>
